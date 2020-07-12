@@ -1,0 +1,10 @@
+{
+        "domain": "mqtt_file",
+        "name": "MQTT File custom component",
+        "documentation": "https://github.com/RABCBot",
+        "requirements": [],
+        "dependencies": [],
+        "codeowners": [
+                "@rabcbot"
+        ]
+}
